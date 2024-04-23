@@ -1,0 +1,25 @@
+{
+    "featured": {},
+    "changelog": [
+        {
+            "label": "fixed",
+            "text": "Column inner styles now working properly in a cover"
+        },
+        {
+            "label": "fixed",
+            "text": "Save error when adding a masterblock to the single post template"
+        },
+        {
+            "label": "fixed",
+            "text": "Category\\/Tags seperator not visible in the blogposts module"
+        },
+        {
+            "label": "fixed",
+            "text": "Exclusive nav had a wrong height after page transition (single page app mode)"
+        },
+        {
+            "label": "fixed",
+            "text": "Navigation blur now works properly in Safari"
+        }
+    ]
+}
