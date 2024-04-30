@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Collision After Hours &#8211; Conor Claffey</title>
 <meta name='robots' content='max-image-preview:large' />
-<link rel='stylesheet' id='wp-block-library-css' href='http://clafdsign.github.io/semplicesite/wp-includes/css/dist/block-library/style.min.css?ver=6.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://clafdsign.github.io/semplicesite/wp-includes/css/dist/block-library/style.min.css?ver=6.5.2' type='text/css' media='all' />
 <style id='classic-theme-styles-inline-css' type='text/css'>
 /*! This file is auto-generated */
 .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
@@ -17,17 +17,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
-<link rel='stylesheet' id='semplice-stylesheet-css' href='http://clafdsign.github.io/semplicesite/wp-content/themes/semplice6/style.css?ver=6.2.3' type='text/css' media='all' />
-<link rel='stylesheet' id='semplice-frontend-stylesheet-css' href='http://clafdsign.github.io/semplicesite/wp-content/themes/semplice6/assets/css/frontend.min.css?ver=6.2.3' type='text/css' media='all' />
-<link rel='stylesheet' id='mediaelement-css' href='http://clafdsign.github.io/semplicesite/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
-<script type="text/javascript" src="http://clafdsign.github.io/semplicesite/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script type="text/javascript" src="http://clafdsign.github.io/semplicesite/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<link rel="https://api.w.org/" href="http://clafdsign.github.io/semplicesite/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://clafdsign.github.io/semplicesite/xmlrpc.php?rsd" />
+<link rel='stylesheet' id='semplice-stylesheet-css' href='https://clafdsign.github.io/semplicesite/wp-content/themes/semplice6/style.css?ver=6.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='semplice-frontend-stylesheet-css' href='https://clafdsign.github.io/semplicesite/wp-content/themes/semplice6/assets/css/frontend.min.css?ver=6.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://clafdsign.github.io/semplicesite/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<script type="text/javascript" src="https://clafdsign.github.io/semplicesite/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://clafdsign.github.io/semplicesite/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://clafdsign.github.io/semplicesite/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://clafdsign.github.io/semplicesite/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.5.2" />
-<link rel="canonical" href="http://clafdsign.github.io/semplicesite/project/collision-after-hours" />
-<link rel='shortlink' href='http://clafdsign.github.io/semplicesite/?p=72' />
-<link rel="alternate" type="application/json+oembed" href="http://clafdsign.github.io/semplicesite/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fclafdsign.github.io/semplicesite%2Fproject%2Fcollision-after-hours" />
-<link rel="alternate" type="text/xml+oembed" href="http://clafdsign.github.io/semplicesite/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fclafdsign.github.io/semplicesite%2Fproject%2Fcollision-after-hours&#038;format=xml" />
+<link rel="canonical" href="https://clafdsign.github.io/semplicesite/project/collision-after-hours" />
+<link rel='shortlink' href='https://clafdsign.github.io/semplicesite/?p=72' />
+<link rel="alternate" type="application/json+oembed" href="https://clafdsign.github.io/semplicesite/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fclafdsign.github.io/semplicesite%2Fproject%2Fcollision-after-hours" />
+<link rel="alternate" type="text/xml+oembed" href="https://clafdsign.github.io/semplicesite/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fclafdsign.github.io/semplicesite%2Fproject%2Fcollision-after-hours&#038;format=xml" />
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i|Lora:400,400i,700,700i" rel="stylesheet"><style type="text/css" id="semplice-webfonts-css">#content-holder p, #content-holder li, .blog-settings [data-font="inter_regular"] {font-family: "Inter", Arial, sans-serif;font-weight: 400;font-style: normal;}#content-holder h1, #content-holder h2, #content-holder h3, .blog-settings [data-font="inter_bold"] {font-family: "Inter", Arial, sans-serif;font-weight: 700;font-style: normal;}</style>
 		<style type="text/css" id="semplice-custom-css">
 			
@@ -37,7 +37,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			font-style:  normal;
 			font-weight: 100 900;
 			font-display: swap;
-			src: url("http://clafdsign.github.io/semplicesite/wp-content/themes/semplice6/assets/fonts/inter.woff2") format("woff2");
+			src: url("https://clafdsign.github.io/semplicesite/wp-content/themes/semplice6/assets/fonts/inter.woff2") format("woff2");
 		}
 	
 			@media screen and (min-width: 992px) and (max-width: 1169.98px) { }@media screen and (min-width: 768px) and (max-width: 991.98px) { }@media screen and (min-width: 544px) and (max-width: 767.98px) { }@media screen and (max-width: 543.98px) { }
@@ -127,7 +127,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</style>
 	
 		<style type="text/css" id="72-post-css">
-			#content-72 #section_e69262cc2 {background-image: url(http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/image.gif);background-position: top left;background-attachment: scroll;background-color: #000000;}#content-72 #content_5519f6e6a {padding-top: 5.555555555555555rem;padding-bottom: 5.555555555555555rem;}#content-72 #content_5519f6e6a .is-content {}#content-72 #section_eb697c165 {padding-bottom: 3.3333333333333335rem;background-color: transparent;}#content-72 #content_a3140294f {padding-top: 1.6666666666666667rem;padding-bottom: 1.6666666666666667rem;}#content-72 #content_a3140294f .is-content {}#content-72 #content_16c1add95 {padding-top: 3.3333333333333335rem;}#content-72 #content_16c1add95 .is-content {}#content-72 #content_c228c97c7 {padding-top: 1.6666666666666667rem;padding-right: 1.6666666666666667rem;padding-bottom: 0rem;padding-left: 1.6666666666666667rem;}#content-72 #content_c228c97c7 .is-content {}#content-72 #content_c031c4101 {padding-top: 1.6666666666666667rem;padding-right: 0.8333333333333334rem;padding-bottom: 0rem;padding-left: 0.8333333333333334rem;}#content-72 #content_c031c4101 .is-content {}#content-72 #content_q340syn0a {padding-top: 3.3333333333333335rem;}#content-72 #content_q340syn0a .is-content {}#content-72 #content_q2at9a2p8 {padding-top: 1.6666666666666667rem;}#content-72 #content_q2at9a2p8 .is-content {}#content-72 #content_nmdn76pzg {padding-top: 3.3333333333333335rem;}#content-72 #content_nmdn76pzg .is-content {}#content-72 #section_37d782cce {padding-top: 1.6666666666666667rem;padding-bottom: 1.6666666666666667rem;background-color: #000000;}#content-72 #content_f78319153 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_f78319153 .is-content {}#content-72 #content_0358eb1f9 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_0358eb1f9 .is-content {}#content-72 #content_c3930aad8 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_c3930aad8 .is-content {}#content-72 #content_a83fef532 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_a83fef532 .is-content {}#content-72 #content_e9ba0e87d {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_e9ba0e87d .is-content {}#content-72 #content_220663b1b {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_220663b1b .is-content {}#content-72 #content_370294703 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_370294703 .is-content {}#content-72 #content_920302847 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_920302847 .is-content {}#content-72 #content_72fd3d310 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_72fd3d310 .is-content {}#content-72 #section_2caf335ea {padding-top: 1.6666666666666667rem;}#content-72 #content_0f6cf1967 {padding-top: 1.6666666666666667rem;padding-bottom: 1.6666666666666667rem;}#content-72 #content_0f6cf1967 .is-content {}#content-72 #content_7q4xql2p0 {padding-top: 1.6666666666666667rem;padding-bottom: 1.6666666666666667rem;}#content-72 #content_7q4xql2p0 .is-content {}#content-72 #section_01ef5a1b6 {background-color: #000000;}#content-72 #content_1f4056dcc {padding-top: 2.7777777777777777rem;padding-right: 0rem;padding-bottom: 5.555555555555555rem;}#content-72 #content_1f4056dcc .is-content {}#content-72 #content_ebe08408c {padding-top: 2.7777777777777777rem;padding-bottom: 0rem;}#content-72 #content_ebe08408c .is-content {}
+			#content-72 #section_e69262cc2 {background-image: url(https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/image.gif);background-position: top left;background-attachment: scroll;background-color: #000000;}#content-72 #content_5519f6e6a {padding-top: 5.555555555555555rem;padding-bottom: 5.555555555555555rem;}#content-72 #content_5519f6e6a .is-content {}#content-72 #section_eb697c165 {padding-bottom: 3.3333333333333335rem;background-color: transparent;}#content-72 #content_a3140294f {padding-top: 1.6666666666666667rem;padding-bottom: 1.6666666666666667rem;}#content-72 #content_a3140294f .is-content {}#content-72 #content_16c1add95 {padding-top: 3.3333333333333335rem;}#content-72 #content_16c1add95 .is-content {}#content-72 #content_c228c97c7 {padding-top: 1.6666666666666667rem;padding-right: 1.6666666666666667rem;padding-bottom: 0rem;padding-left: 1.6666666666666667rem;}#content-72 #content_c228c97c7 .is-content {}#content-72 #content_c031c4101 {padding-top: 1.6666666666666667rem;padding-right: 0.8333333333333334rem;padding-bottom: 0rem;padding-left: 0.8333333333333334rem;}#content-72 #content_c031c4101 .is-content {}#content-72 #content_q340syn0a {padding-top: 3.3333333333333335rem;}#content-72 #content_q340syn0a .is-content {}#content-72 #content_q2at9a2p8 {padding-top: 1.6666666666666667rem;}#content-72 #content_q2at9a2p8 .is-content {}#content-72 #content_nmdn76pzg {padding-top: 3.3333333333333335rem;}#content-72 #content_nmdn76pzg .is-content {}#content-72 #section_37d782cce {padding-top: 1.6666666666666667rem;padding-bottom: 1.6666666666666667rem;background-color: #000000;}#content-72 #content_f78319153 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_f78319153 .is-content {}#content-72 #content_0358eb1f9 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_0358eb1f9 .is-content {}#content-72 #content_c3930aad8 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_c3930aad8 .is-content {}#content-72 #content_a83fef532 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_a83fef532 .is-content {}#content-72 #content_e9ba0e87d {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_e9ba0e87d .is-content {}#content-72 #content_220663b1b {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_220663b1b .is-content {}#content-72 #content_370294703 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_370294703 .is-content {}#content-72 #content_920302847 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_920302847 .is-content {}#content-72 #content_72fd3d310 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-72 #content_72fd3d310 .is-content {}#content-72 #section_2caf335ea {padding-top: 1.6666666666666667rem;}#content-72 #content_0f6cf1967 {padding-top: 1.6666666666666667rem;padding-bottom: 1.6666666666666667rem;}#content-72 #content_0f6cf1967 .is-content {}#content-72 #content_7q4xql2p0 {padding-top: 1.6666666666666667rem;padding-bottom: 1.6666666666666667rem;}#content-72 #content_7q4xql2p0 .is-content {}#content-72 #section_01ef5a1b6 {background-color: #000000;}#content-72 #content_1f4056dcc {padding-top: 2.7777777777777777rem;padding-right: 0rem;padding-bottom: 5.555555555555555rem;}#content-72 #content_1f4056dcc .is-content {}#content-72 #content_ebe08408c {padding-top: 2.7777777777777777rem;padding-bottom: 0rem;}#content-72 #content_ebe08408c .is-content {}
 			.nav_1r0vcctis .container-nav-inner .navbar-inner { background-color: rgba(10, 187, 101, 1);; }.nav_1r0vcctis .container-nav-inner { padding-left: 3.3333333333333335rem; }.nav_1r0vcctis .container-nav-inner { padding-right: 3.3333333333333335rem; }.nav_1r0vcctis .container-nav-inner { padding-top: 1.6666666666666667rem; }.nav_1r0vcctis .container-nav-inner { padding-bottom: 1.6666666666666667rem; }.nav_1r0vcctis .container-nav-inner .navbar-inner nav ul li a, .nav_1r0vcctis .container-nav-inner .navbar-inner .hamburger { padding-top: 1.6666666666666667rem; }.nav_1r0vcctis .container-nav-inner .navbar-inner nav ul li a, .nav_1r0vcctis .container-nav-inner .navbar-inner .hamburger { padding-bottom: 1.6666666666666667rem; }.nav_1r0vcctis .container-nav-inner .navbar-inner { border-color: rgba(0, 0, 0, 1); }.nav_1r0vcctis .container-nav-inner .navbar-inner { border-radius: 0rem; }.nav_1r0vcctis .logo { padding-left: 3.3333333333333335rem; }.nav_1r0vcctis .logo { padding-right: 3.3333333333333335rem; }.nav_1r0vcctis .logo { padding-top: 3.3333333333333335rem; }.nav_1r0vcctis .logo { padding-bottom: 3.3333333333333335rem; }.nav_1r0vcctis .logo img, .nav_1r0vcctis .logo svg { width: 4.166666666666667rem; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon span { background-color: #000000; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon { width: 24; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon span { height: 2px; }.nav_1r0vcctis .navbar-inner .hamburger a.open-menu span::before { transform: translateY(-6px); }.nav_1r0vcctis .navbar-inner .hamburger a.open-menu span::after { transform: translateY(6px); }.nav_1r0vcctis .navbar-inner .hamburger a.open-menu:hover span::before { transform: translateY(-8px); }.nav_1r0vcctis .navbar-inner .hamburger a.open-menu:hover span::after { transform: translateY(8px); }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon { height: 14px; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon span { margin-top: 7px; }.nav_1r0vcctis .container-nav-inner .navbar-inner nav ul li a span { font-size: 1rem; }.nav_1r0vcctis .container-nav-inner .navbar-inner nav ul li a span { color: #ffffff; }.nav_1r0vcctis .container-nav-inner .navbar-inner nav ul li a:hover span, .nav_1r0vcctis .navbar-inner nav ul li.wrap-focus a span, .nav_1r0vcctis .container-nav-inner .navbar-inner nav ul li.current-menu-item a span, .nav_1r0vcctis .container-nav-inner .navbar-inner nav ul li.current_page_item a span, [data-post-type="project"] .nav_1r0vcctis .navbar-inner nav ul li.portfolio-grid a span, [data-post-type="post"] .nav_1r0vcctis .navbar-inner nav ul li.blog-overview a span { color: #000000; }#overlay-menu { background-color: rgba(245, 245, 245, 1); }@media screen and (min-width: 992px) and (max-width: 1169.98px) { .nav_1r0vcctis .navbar-inner .hamburger a.menu-icon { height: 14px; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon span { margin-top: 7px; }}@media screen and (min-width: 768px) and (max-width: 991.98px) { .nav_1r0vcctis .navbar-inner .hamburger a.menu-icon { height: 14px; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon span { margin-top: 7px; }}@media screen and (min-width: 544px) and (max-width: 767.98px) { .nav_1r0vcctis .navbar-inner .hamburger a.menu-icon { height: 14px; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon span { margin-top: 7px; }}@media screen and (max-width: 543.98px) { .nav_1r0vcctis .navbar-inner .hamburger a.menu-icon { height: 14px; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon span { margin-top: 7px; }}
 		</style>
 			<style>html{margin-top:0px!important;}#wpadminbar{top:auto!important;bottom:0;}</style>
@@ -137,20 +137,20 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						<header class="nav_1r0vcctis semplice-navbar active-navbar sticky-nav container-nav container-nav-floating no-headroom container-bottom-nav non-exclusive"  data-cover-transparent="disabled" data-bg-overlay-visibility="visible" data-mobile-fallback="enabled" data-logo-visibility="visible" data-logo-position="bottom-left" data-nav-position="bottom-right" >
 							<div class="container-nav-inner container" data-nav="container-floating">
 								<div class="navbar-inner menu-type-text" data-xl-width="12" data-navbar-type="container">
-									<nav class="standard" data-font="inter_bold"><ul class="menu"><li id="menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="http://clafdsign.github.io/semplicesite/visual-identity"><span>Visual identity</span></a></li>
-<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="http://clafdsign.github.io/semplicesite/environment"><span>Environment</span></a></li>
+									<nav class="standard" data-font="inter_bold"><ul class="menu"><li id="menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="https://clafdsign.github.io/semplicesite/visual-identity"><span>Visual identity</span></a></li>
+<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="https://clafdsign.github.io/semplicesite/environment"><span>Environment</span></a></li>
 </ul></nav>
 									<div class="hamburger semplice-menu"><a class="open-menu menu-icon"><span></span></a></div>
 								</div>
 							</div>
-							<div class="logo"><a  href="http://clafdsign.github.io/semplicesite" title="Conor Claffey"><img src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/C-logo-transparent.png" alt="logo"></a></div>
+							<div class="logo"><a  href="https://clafdsign.github.io/semplicesite" title="Conor Claffey"><img src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/C-logo-transparent.png" alt="logo"></a></div>
 						</header>
 						
 				<div id="overlay-menu">
 					<div class="overlay-menu-inner" data-xl-width="12">
 						<nav class="overlay-nav" data-justify="center" data-align="align-middle">
-							<ul class="container"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="http://clafdsign.github.io/semplicesite/visual-identity"><span>Visual identity</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="http://clafdsign.github.io/semplicesite/environment"><span>Environment</span></a></li>
+							<ul class="container"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="https://clafdsign.github.io/semplicesite/visual-identity"><span>Visual identity</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="https://clafdsign.github.io/semplicesite/environment"><span>Environment</span></a></li>
 </ul>
 						</nav>
 					</div>
@@ -167,7 +167,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_5519f6e6a" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="center"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/image.gif" width="650" height="337" alt="image" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="center"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/image.gif" width="650" height="337" alt="image" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -189,7 +189,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_16c1add95" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/monday.png" width="482" height="96" alt="monday" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/monday.png" width="482" height="96" alt="monday" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -198,7 +198,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_c228c97c7" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/Tues-new_1.png" width="397" height="168" alt="Tues-new_1" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/Tues-new_1.png" width="397" height="168" alt="Tues-new_1" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -207,7 +207,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_c031c4101" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/Wed-new.png" width="420" height="132" alt="Wed-new" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/Wed-new.png" width="420" height="132" alt="Wed-new" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -216,7 +216,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_q340syn0a" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/670x400.png" width="670" height="400" alt="670&#215;400" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/670x400.png" width="670" height="400" alt="670&#215;400" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 				<div id="content_q2at9a2p8" class="column-content" data-module="text" >
@@ -229,7 +229,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_nmdn76pzg" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/Asset-1.png" width="504" height="680" alt="Asset-1" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/Asset-1.png" width="504" height="680" alt="Asset-1" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -242,7 +242,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_f78319153" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_1.png" width="771" height="521" alt="AH-370x250_1" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_1.png" width="771" height="521" alt="AH-370x250_1" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -251,7 +251,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_0358eb1f9" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_2.png" width="771" height="521" alt="AH-370x250_2" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_2.png" width="771" height="521" alt="AH-370x250_2" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -260,7 +260,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_c3930aad8" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_3.png" width="771" height="521" alt="AH-370x250_3" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_3.png" width="771" height="521" alt="AH-370x250_3" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -269,7 +269,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_a83fef532" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_4.png" width="771" height="521" alt="AH-370x250_4" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_4.png" width="771" height="521" alt="AH-370x250_4" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -278,7 +278,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_e9ba0e87d" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_5.png" width="771" height="521" alt="AH-370x250_5" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_5.png" width="771" height="521" alt="AH-370x250_5" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -287,7 +287,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_220663b1b" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_6.png" width="771" height="521" alt="AH-370x250_6" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_6.png" width="771" height="521" alt="AH-370x250_6" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -296,7 +296,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_370294703" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_7.png" width="771" height="521" alt="AH-370x250_7" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_7.png" width="771" height="521" alt="AH-370x250_7" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -305,7 +305,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_920302847" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_8.png" width="771" height="521" alt="AH-370x250_8" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_8.png" width="771" height="521" alt="AH-370x250_8" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -314,7 +314,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_72fd3d310" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_9.png" width="771" height="521" alt="AH-370x250_9" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-370x250_9.png" width="771" height="521" alt="AH-370x250_9" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -327,7 +327,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_0f6cf1967" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-2.jpg" width="750" height="1000" alt="AH-2" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-2.jpg" width="750" height="1000" alt="AH-2" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -336,7 +336,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_7q4xql2p0" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-1.jpg" width="750" height="1000" alt="AH-1" caption="" data-width="original" data-scaling="no"></div>
+					<div class="ce-image" data-align="left"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/AH-1.jpg" width="750" height="1000" alt="AH-1" caption="" data-width="original" data-scaling="no"></div>
 				</div>
 			
 					</div>
@@ -353,48 +353,48 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						<div class="row pp-thumbs">
 							
 						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign.github.io/semplicesite/project/phizzfest" title="Phizzfest"><img src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/500x500_Phizz.png" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign.github.io/semplicesite/project/phizzfest" title="Phizzfest">Phizzfest</a><span data-font="regular">Branding</span></p>
+							<a href="https://clafdsign.github.io/semplicesite/project/phizzfest" title="Phizzfest"><img src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/500x500_Phizz.png" width="" height=""></a>
+							<p class="pp-title"><a data-font="regular" href="https://clafdsign.github.io/semplicesite/project/phizzfest" title="Phizzfest">Phizzfest</a><span data-font="regular">Branding</span></p>
 						</div>
 					
 						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign.github.io/semplicesite/project/marcus-mae" title="Marcus Mae"><img src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/500x500_Marcus-mae.png" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign.github.io/semplicesite/project/marcus-mae" title="Marcus Mae">Marcus Mae</a><span data-font="regular">Branding</span></p>
+							<a href="https://clafdsign.github.io/semplicesite/project/marcus-mae" title="Marcus Mae"><img src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/500x500_Marcus-mae.png" width="" height=""></a>
+							<p class="pp-title"><a data-font="regular" href="https://clafdsign.github.io/semplicesite/project/marcus-mae" title="Marcus Mae">Marcus Mae</a><span data-font="regular">Branding</span></p>
 						</div>
 					
 						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign.github.io/semplicesite/project/stage-design" title="Stage Design"><img src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/Squares_Stage-design-370x370-1.jpg" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign.github.io/semplicesite/project/stage-design" title="Stage Design">Stage Design</a><span data-font="regular">Environmental</span></p>
+							<a href="https://clafdsign.github.io/semplicesite/project/stage-design" title="Stage Design"><img src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/Squares_Stage-design-370x370-1.jpg" width="" height=""></a>
+							<p class="pp-title"><a data-font="regular" href="https://clafdsign.github.io/semplicesite/project/stage-design" title="Stage Design">Stage Design</a><span data-font="regular">Environmental</span></p>
 						</div>
 					
 						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign.github.io/semplicesite/project/collision-after-hours" title="Collision After Hours"><img src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/500x500_After-Hours.png" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign.github.io/semplicesite/project/collision-after-hours" title="Collision After Hours">Collision After Hours</a><span data-font="regular">Branding</span></p>
+							<a href="https://clafdsign.github.io/semplicesite/project/collision-after-hours" title="Collision After Hours"><img src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/500x500_After-Hours.png" width="" height=""></a>
+							<p class="pp-title"><a data-font="regular" href="https://clafdsign.github.io/semplicesite/project/collision-after-hours" title="Collision After Hours">Collision After Hours</a><span data-font="regular">Branding</span></p>
 						</div>
 					
 						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign.github.io/semplicesite/project/icon-system" title="Icon system"><img src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/Squares_Icon-370x370-1.png" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign.github.io/semplicesite/project/icon-system" title="Icon system">Icon system</a><span data-font="regular">Environmental</span></p>
+							<a href="https://clafdsign.github.io/semplicesite/project/icon-system" title="Icon system"><img src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/Squares_Icon-370x370-1.png" width="" height=""></a>
+							<p class="pp-title"><a data-font="regular" href="https://clafdsign.github.io/semplicesite/project/icon-system" title="Icon system">Icon system</a><span data-font="regular">Environmental</span></p>
 						</div>
 					
 						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign.github.io/semplicesite/project/phibsborotidytowns" title="Phibsboro Tidy Towns"><img src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/500x500_Phibsboro-village.png" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign.github.io/semplicesite/project/phibsborotidytowns" title="Phibsboro Tidy Towns">Phibsboro Tidy Towns</a><span data-font="regular">Branding</span></p>
+							<a href="https://clafdsign.github.io/semplicesite/project/phibsborotidytowns" title="Phibsboro Tidy Towns"><img src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/500x500_Phibsboro-village.png" width="" height=""></a>
+							<p class="pp-title"><a data-font="regular" href="https://clafdsign.github.io/semplicesite/project/phibsborotidytowns" title="Phibsboro Tidy Towns">Phibsboro Tidy Towns</a><span data-font="regular">Branding</span></p>
 						</div>
 					
 						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign.github.io/semplicesite/project/wayfinding" title="Wayfinding"><img src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/Squares_Wayfinding-370x370-1.jpg" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign.github.io/semplicesite/project/wayfinding" title="Wayfinding">Wayfinding</a><span data-font="regular">Environmental</span></p>
+							<a href="https://clafdsign.github.io/semplicesite/project/wayfinding" title="Wayfinding"><img src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/Squares_Wayfinding-370x370-1.jpg" width="" height=""></a>
+							<p class="pp-title"><a data-font="regular" href="https://clafdsign.github.io/semplicesite/project/wayfinding" title="Wayfinding">Wayfinding</a><span data-font="regular">Environmental</span></p>
 						</div>
 					
 						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign.github.io/semplicesite/project/collision-after-hours-duplicate" title="Machine Demo"><img src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/500x500_Machine-Demo.png" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign.github.io/semplicesite/project/collision-after-hours-duplicate" title="Machine Demo">Machine Demo</a><span data-font="regular">Branding</span></p>
+							<a href="https://clafdsign.github.io/semplicesite/project/collision-after-hours-duplicate" title="Machine Demo"><img src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/500x500_Machine-Demo.png" width="" height=""></a>
+							<p class="pp-title"><a data-font="regular" href="https://clafdsign.github.io/semplicesite/project/collision-after-hours-duplicate" title="Machine Demo">Machine Demo</a><span data-font="regular">Branding</span></p>
 						</div>
 					
 						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign.github.io/semplicesite/project/grend" title="Grend"><img src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/500x500_Marcus-mae-copy-2.png" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign.github.io/semplicesite/project/grend" title="Grend">Grend</a><span data-font="regular">Branding</span></p>
+							<a href="https://clafdsign.github.io/semplicesite/project/grend" title="Grend"><img src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/500x500_Marcus-mae-copy-2.png" width="" height=""></a>
+							<p class="pp-title"><a data-font="regular" href="https://clafdsign.github.io/semplicesite/project/grend" title="Grend">Grend</a><span data-font="regular">Branding</span></p>
 						</div>
 					
 						</div>
@@ -421,7 +421,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 						
 				<div id="content_ebe08408c" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="right"><a href="https://www.instagram.com/clafdsign/?igsh=MTA3bmdidTk1bmRyNg%3D%3D" target="_blank"><img class="is-content"  src="http://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/insta.png" width="275" height="275" alt="insta" caption="" data-width="original" data-scaling="no"></a></div>
+					<div class="ce-image" data-align="right"><a href="https://www.instagram.com/clafdsign/?igsh=MTA3bmdidTk1bmRyNg%3D%3D" target="_blank"><img class="is-content"  src="https://clafdsign.github.io/semplicesite/wp-content/uploads/2024/04/insta.png" width="275" height="275" alt="insta" caption="" data-width="original" data-scaling="no"></a></div>
 				</div>
 			
 					</div>
@@ -469,7 +469,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	</div>
 </div>
 		<div class="back-to-top" data-arrow-align="right">
-			<a class="semplice-event" data-event-type="helper" data-event="scrollToTop"><svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+			<a class="semplice-event" data-event-type="helper" data-event="scrollToTop"><svg version="1.1" id="Ebene_1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="53px" height="20px" viewBox="0 0 53 20" enable-background="new 0 0 53 20" xml:space="preserve">
 <g id="Ebene_3">
 </g>
@@ -479,15 +479,15 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </svg>
 </a>
 		</div>
-	<script type="text/javascript" src="http://clafdsign.github.io/semplicesite/wp-content/themes/semplice6/assets/js/shared.scripts.min.js?ver=6.2.3" id="semplice-shared-scripts-js"></script>
-<script type="text/javascript" src="http://clafdsign.github.io/semplicesite/wp-content/themes/semplice6/assets/js/frontend.scripts.min.js?ver=6.2.3" id="semplice-frontend-scripts-js"></script>
+	<script type="text/javascript" src="https://clafdsign.github.io/semplicesite/wp-content/themes/semplice6/assets/js/shared.scripts.min.js?ver=6.2.3" id="semplice-shared-scripts-js"></script>
+<script type="text/javascript" src="https://clafdsign.github.io/semplicesite/wp-content/themes/semplice6/assets/js/frontend.scripts.min.js?ver=6.2.3" id="semplice-frontend-scripts-js"></script>
 <script type="text/javascript" id="mediaelement-core-js-before">
 /* <![CDATA[ */
 var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://clafdsign.github.io/semplicesite/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
-<script type="text/javascript" src="http://clafdsign.github.io/semplicesite/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.5.2" id="mediaelement-migrate-js"></script>
+<script type="text/javascript" src="https://clafdsign.github.io/semplicesite/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
+<script type="text/javascript" src="https://clafdsign.github.io/semplicesite/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.5.2" id="mediaelement-migrate-js"></script>
 <script type="text/javascript" id="mediaelement-js-extra">
 /* <![CDATA[ */
 var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
@@ -495,9 +495,9 @@ var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPr
 </script>
 <script type="text/javascript" id="semplice-frontend-js-js-extra">
 /* <![CDATA[ */
-var semplice = {"default_api_url":"http:\/\/clafdsign.github.io/semplicesite\/wp-json","semplice_api_url":"http:\/\/clafdsign.github.io/semplicesite\/wp-json\/semplice\/v1\/frontend","template_dir":"http:\/\/clafdsign.github.io/semplicesite\/wp-content\/themes\/semplice6","category_base":"\/category\/","tag_base":"\/tag\/","nonce":"5b496a530f","frontend_mode":"static","static_transitions":"enabled","site_name":"Conor Claffey","base_url":"http:\/\/clafdsign.github.io/semplicesite","frontpage_id":"6","blog_home":"http:\/\/clafdsign.github.io/semplicesite","sr_status":"enabled","blog_sr_status":"enabled","is_preview":"","password_form":"\r\n<div class=\"post-password-form\">\r\n\t<div class=\"inner\">\r\n\t\t<form action=\"http:\/\/clafdsign.github.io/semplicesite\/wp-login.php?action=postpass\" method=\"post\">\r\n\t\t\t<div class=\"password-lock\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"35\" height=\"52\" viewBox=\"0 0 35 52\">\r\n  <path id=\"Form_1\" data-name=\"Form 1\" d=\"M31.3,25.028H27.056a0.755,0.755,0,0,1-.752-0.757V14.654a8.8,8.8,0,1,0-17.608,0v9.616a0.755,0.755,0,0,1-.752.757H3.7a0.755,0.755,0,0,1-.752-0.757V14.654a14.556,14.556,0,1,1,29.111,0v9.616A0.755,0.755,0,0,1,31.3,25.028Zm-3.495-1.514h2.743V14.654a13.051,13.051,0,1,0-26.1,0v8.859H7.192V14.654a10.309,10.309,0,1,1,20.617,0v8.859Zm4.43,28.475H2.761A2.77,2.77,0,0,1,0,49.213V25.28a1.763,1.763,0,0,1,1.755-1.766H33.242A1.763,1.763,0,0,1,35,25.28V49.213A2.77,2.77,0,0,1,32.239,51.988ZM1.758,25.028a0.252,0.252,0,0,0-.251.252V49.213a1.259,1.259,0,0,0,1.254,1.262H32.239a1.259,1.259,0,0,0,1.254-1.262V25.28a0.252,0.252,0,0,0-.251-0.252H1.758ZM20.849,43h-6.7a0.75,0.75,0,0,1-.61-0.314,0.763,0.763,0,0,1-.1-0.682l1.471-4.44a4.1,4.1,0,1,1,5.184,0L21.563,42a0.763,0.763,0,0,1-.1.682A0.75,0.75,0,0,1,20.849,43ZM15.2,41.487H19.8l-1.319-3.979a0.76,0.76,0,0,1,.33-0.891,2.6,2.6,0,1,0-2.633,0,0.76,0.76,0,0,1,.33.891Z\"\/>\r\n<\/svg>\r\n<\/div>\r\n\t\t\t<p class=\"title\">This content is protected.<\/p>\r\n\t\t\t<p class=\"subtitle\">To view, please enter the password.<\/p>\r\n\t\t\t<div class=\"input-fields\">\r\n\t\t\t\t<input name=\"post_password\" class=\"post-password-input\" type=\"password\" size=\"20\" maxlength=\"20\" placeholder=\"Enter password\" \/><input type=\"submit\" class=\"post-password-submit\" name=\"Submit\" value=\"Submit\" \/>\t\t\t<\/div>\r\n\t\t<\/form>\r\n\t<\/div>\r\n<\/div>","portfolio_order":[10,39,135,72,153,54,118,97,111],"exclusive_nav":"disabled","customize":{"cursor":null},"gallery":{"prev":"<svg version=\"1.1\" id=\"Ebene_1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\r\n\twidth=\"18px\" height=\"40px\"  viewBox=\"0 0 18 40\" enable-background=\"new 0 0 18 40\" xml:space=\"preserve\">\r\n<g id=\"Ebene_2\">\r\n\t<g>\r\n\t\t<polygon points=\"16.3,40 0.3,20 16.3,0 17.7,1 2.5,20 17.7,39 \t\t\"\/>\r\n\t<\/g>\r\n<\/g>\r\n<\/svg>\r\n","next":"<svg version=\"1.1\" id=\"Ebene_1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\r\n\twidth=\"18px\" height=\"40px\" viewBox=\"0 0 18 40\" enable-background=\"new 0 0 18 40\" xml:space=\"preserve\">\r\n<g id=\"Ebene_2\">\r\n\t<g>\r\n\t\t<polygon points=\"0.3,39 15.5,20 0.3,1 1.7,0 17.7,20 1.7,40 \t\t\"\/>\r\n\t<\/g>\r\n<\/g>\r\n<\/svg>\r\n"},"sr_options":{"viewFactor":0,"distance":"0","duration":"0","mobile":"false"}};
+var semplice = {"default_api_url":"https:\/\/clafdsign.github.io/semplicesite\/wp-json","semplice_api_url":"https:\/\/clafdsign.github.io/semplicesite\/wp-json\/semplice\/v1\/frontend","template_dir":"https:\/\/clafdsign.github.io/semplicesite\/wp-content\/themes\/semplice6","category_base":"\/category\/","tag_base":"\/tag\/","nonce":"5b496a530f","frontend_mode":"static","static_transitions":"enabled","site_name":"Conor Claffey","base_url":"https:\/\/clafdsign.github.io/semplicesite","frontpage_id":"6","blog_home":"https:\/\/clafdsign.github.io/semplicesite","sr_status":"enabled","blog_sr_status":"enabled","is_preview":"","password_form":"\r\n<div class=\"post-password-form\">\r\n\t<div class=\"inner\">\r\n\t\t<form action=\"https:\/\/clafdsign.github.io/semplicesite\/wp-login.php?action=postpass\" method=\"post\">\r\n\t\t\t<div class=\"password-lock\"><svg xmlns=\"https:\/\/www.w3.org\/2000\/svg\" width=\"35\" height=\"52\" viewBox=\"0 0 35 52\">\r\n  <path id=\"Form_1\" data-name=\"Form 1\" d=\"M31.3,25.028H27.056a0.755,0.755,0,0,1-.752-0.757V14.654a8.8,8.8,0,1,0-17.608,0v9.616a0.755,0.755,0,0,1-.752.757H3.7a0.755,0.755,0,0,1-.752-0.757V14.654a14.556,14.556,0,1,1,29.111,0v9.616A0.755,0.755,0,0,1,31.3,25.028Zm-3.495-1.514h2.743V14.654a13.051,13.051,0,1,0-26.1,0v8.859H7.192V14.654a10.309,10.309,0,1,1,20.617,0v8.859Zm4.43,28.475H2.761A2.77,2.77,0,0,1,0,49.213V25.28a1.763,1.763,0,0,1,1.755-1.766H33.242A1.763,1.763,0,0,1,35,25.28V49.213A2.77,2.77,0,0,1,32.239,51.988ZM1.758,25.028a0.252,0.252,0,0,0-.251.252V49.213a1.259,1.259,0,0,0,1.254,1.262H32.239a1.259,1.259,0,0,0,1.254-1.262V25.28a0.252,0.252,0,0,0-.251-0.252H1.758ZM20.849,43h-6.7a0.75,0.75,0,0,1-.61-0.314,0.763,0.763,0,0,1-.1-0.682l1.471-4.44a4.1,4.1,0,1,1,5.184,0L21.563,42a0.763,0.763,0,0,1-.1.682A0.75,0.75,0,0,1,20.849,43ZM15.2,41.487H19.8l-1.319-3.979a0.76,0.76,0,0,1,.33-0.891,2.6,2.6,0,1,0-2.633,0,0.76,0.76,0,0,1,.33.891Z\"\/>\r\n<\/svg>\r\n<\/div>\r\n\t\t\t<p class=\"title\">This content is protected.<\/p>\r\n\t\t\t<p class=\"subtitle\">To view, please enter the password.<\/p>\r\n\t\t\t<div class=\"input-fields\">\r\n\t\t\t\t<input name=\"post_password\" class=\"post-password-input\" type=\"password\" size=\"20\" maxlength=\"20\" placeholder=\"Enter password\" \/><input type=\"submit\" class=\"post-password-submit\" name=\"Submit\" value=\"Submit\" \/>\t\t\t<\/div>\r\n\t\t<\/form>\r\n\t<\/div>\r\n<\/div>","portfolio_order":[10,39,135,72,153,54,118,97,111],"exclusive_nav":"disabled","customize":{"cursor":null},"gallery":{"prev":"<svg version=\"1.1\" id=\"Ebene_1\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"https:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\r\n\twidth=\"18px\" height=\"40px\"  viewBox=\"0 0 18 40\" enable-background=\"new 0 0 18 40\" xml:space=\"preserve\">\r\n<g id=\"Ebene_2\">\r\n\t<g>\r\n\t\t<polygon points=\"16.3,40 0.3,20 16.3,0 17.7,1 2.5,20 17.7,39 \t\t\"\/>\r\n\t<\/g>\r\n<\/g>\r\n<\/svg>\r\n","next":"<svg version=\"1.1\" id=\"Ebene_1\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"https:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\r\n\twidth=\"18px\" height=\"40px\" viewBox=\"0 0 18 40\" enable-background=\"new 0 0 18 40\" xml:space=\"preserve\">\r\n<g id=\"Ebene_2\">\r\n\t<g>\r\n\t\t<polygon points=\"0.3,39 15.5,20 0.3,1 1.7,0 17.7,20 1.7,40 \t\t\"\/>\r\n\t<\/g>\r\n<\/g>\r\n<\/svg>\r\n"},"sr_options":{"viewFactor":0,"distance":"0","duration":"0","mobile":"false"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://clafdsign.github.io/semplicesite/wp-content/themes/semplice6/assets/js/frontend.min.js?ver=6.2.3" id="semplice-frontend-js-js"></script>
+<script type="text/javascript" src="https://clafdsign.github.io/semplicesite/wp-content/themes/semplice6/assets/js/frontend.min.js?ver=6.2.3" id="semplice-frontend-js-js"></script>
 	</body>
 </html>
