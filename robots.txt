@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://clafdsign.github.io/semplicesite/wp-sitemap.xml
+Sitemap: http://clafdsign2.local/wp-sitemap.xml
