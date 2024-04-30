@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Marcus Mae &#8211; Conor Claffey</title>
+		<title>Environment &#8211; Conor Claffey</title>
 <meta name='robots' content='max-image-preview:large' />
 <link rel='stylesheet' id='wp-block-library-css' href='http://clafdsign2.local/wp-includes/css/dist/block-library/style.min.css?ver=6.5.2' type='text/css' media='all' />
 <style id='classic-theme-styles-inline-css' type='text/css'>
@@ -22,12 +22,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='mediaelement-css' href='http://clafdsign2.local/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
 <script type="text/javascript" src="http://clafdsign2.local/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="http://clafdsign2.local/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<link rel="https://api.w.org/" href="http://clafdsign2.local/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://clafdsign2.local/xmlrpc.php?rsd" />
+<link rel="https://api.w.org/" href="http://clafdsign2.local/wp-json/" /><link rel="alternate" type="application/json" href="http://clafdsign2.local/wp-json/wp/v2/pages/167" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://clafdsign2.local/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.5.2" />
-<link rel="canonical" href="http://clafdsign2.local/project/marcus-mae" />
-<link rel='shortlink' href='http://clafdsign2.local/?p=39' />
-<link rel="alternate" type="application/json+oembed" href="http://clafdsign2.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fclafdsign2.local%2Fproject%2Fmarcus-mae" />
-<link rel="alternate" type="text/xml+oembed" href="http://clafdsign2.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fclafdsign2.local%2Fproject%2Fmarcus-mae&#038;format=xml" />
+<link rel="canonical" href="http://clafdsign2.local/environment" />
+<link rel='shortlink' href='http://clafdsign2.local/?p=167' />
+<link rel="alternate" type="application/json+oembed" href="http://clafdsign2.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fclafdsign2.local%2Fenvironment" />
+<link rel="alternate" type="text/xml+oembed" href="http://clafdsign2.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fclafdsign2.local%2Fenvironment&#038;format=xml" />
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i|Lora:400,400i,700,700i" rel="stylesheet"><style type="text/css" id="semplice-webfonts-css">#content-holder p, #content-holder li, .blog-settings [data-font="inter_regular"] {font-family: "Inter", Arial, sans-serif;font-weight: 400;font-style: normal;}#content-holder h1, #content-holder h2, #content-holder h3, .blog-settings [data-font="inter_bold"] {font-family: "Inter", Arial, sans-serif;font-weight: 700;font-style: normal;}</style>
 		<style type="text/css" id="semplice-custom-css">
 			
@@ -126,19 +126,19 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			
 		</style>
 	
-		<style type="text/css" id="39-post-css">
-			#content-39 #section_b9a012135 {background-image: url(http://clafdsign2.local/wp-content/uploads/2024/04/MM-bg-1000x1000-1.png);background-position: top left;background-attachment: scroll;}#content-39 #content_2d3d70d5c {padding-top: 1.6666666666666667rem;padding-bottom: 1.6666666666666667rem;}#content-39 #content_2d3d70d5c .is-content {}#content-39 #content_wcg8x7rx3 {padding-top: 1.6666666666666667rem;padding-bottom: 1.6666666666666667rem;}#content-39 #content_wcg8x7rx3 .is-content {}#content-39 #content_be0fad4c1 {padding-top: 1.6666666666666667rem;padding-bottom: 1.6666666666666667rem;}#content-39 #content_be0fad4c1 .is-content {}#content-39 #section_6947db47e {padding-top: 1.6666666666666667rem;padding-bottom: 1.6666666666666667rem;background-color: #000000;}#content-39 #content_4db22ff58 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-39 #content_4db22ff58 .is-content {}#content-39 #content_294b4a63e {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-39 #content_294b4a63e .is-content {}#content-39 #content_44b47a3b3 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-39 #content_44b47a3b3 .is-content {}#content-39 #content_2c38e4638 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-39 #content_2c38e4638 .is-content {}#content-39 #content_4a7680870 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-39 #content_4a7680870 .is-content {}#content-39 #content_f6f3c8f8b {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-39 #content_f6f3c8f8b .is-content {}#content-39 #content_abb0e0501 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-39 #content_abb0e0501 .is-content {}#content-39 #content_404bb2a1c {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-39 #content_404bb2a1c .is-content {}#content-39 #content_0f79b1526 {padding-top: 0.8333333333333334rem;padding-bottom: 0.8333333333333334rem;}#content-39 #content_0f79b1526 .is-content {}#content-39 #section_08e9eedab {padding-top: 1.6666666666666667rem;}#content-39 #content_09f6cd92e {padding-top: 1.6666666666666667rem;padding-bottom: 1.6666666666666667rem;}#content-39 #content_09f6cd92e .is-content {}#content-39 #content_3232bb6ca {padding-top: 1.6666666666666667rem;padding-bottom: 1.6666666666666667rem;}#content-39 #content_3232bb6ca .is-content {}#content-39 #section_55756749f {background-color: #000000;}#content-39 #content_e4fcb6ff2 {padding-top: 2.7777777777777777rem;padding-right: 0rem;padding-bottom: 5.555555555555555rem;}#content-39 #content_e4fcb6ff2 .is-content {}#content-39 #content_52cf50012 {padding-top: 2.7777777777777777rem;padding-bottom: 0rem;}#content-39 #content_52cf50012 .is-content {}
+		<style type="text/css" id="167-post-css">
+			#content-167 #section_45d147702 {background-color: transparent;}#content-167 [data-module="singleproject"] #project-135 .thumb-inner .thumb-hover {background-color: rgba(0, 0, 0, 0.5);background-size: auto;background-position: 0% 0%;background-repeat: no-repeat;}#content-167 [data-module="singleproject"] #project-135 .thumb-hover-meta { padding: 2.22rem; }#content-167 [data-module="singleproject"] #project-135 .thumb-hover-meta .title { color: #ffffff; font-size: 1.33rem; text-transform: none; }#content-167 [data-module="singleproject"] #project-135 .thumb-hover-meta .category { color: #999999; font-size: 1rem; text-transform: none; }#content-167 [data-module="singleproject"] #project-135 video { opacity: 1; }#content-167 [data-module="singleproject"] #project-118 .thumb-inner .thumb-hover {background-color: rgba(0, 0, 0, 0.5);background-size: auto;background-position: 0% 0%;background-repeat: no-repeat;}#content-167 [data-module="singleproject"] #project-118 .thumb-hover-meta { padding: 2.22rem; }#content-167 [data-module="singleproject"] #project-118 .thumb-hover-meta .title { color: #ffffff; font-size: 1.33rem; text-transform: none; }#content-167 [data-module="singleproject"] #project-118 .thumb-hover-meta .category { color: #999999; font-size: 1rem; text-transform: none; }#content-167 [data-module="singleproject"] #project-118 video { opacity: 1; }#content-167 [data-module="singleproject"] #project-153 .thumb-inner .thumb-hover {background-color: rgba(0, 0, 0, 0.5);background-size: auto;background-position: 0% 0%;background-repeat: no-repeat;}#content-167 [data-module="singleproject"] #project-153 .thumb-hover-meta { padding: 2.22rem; }#content-167 [data-module="singleproject"] #project-153 .thumb-hover-meta .title { color: #ffffff; font-size: 1.33rem; text-transform: none; }#content-167 [data-module="singleproject"] #project-153 .thumb-hover-meta .category { color: #999999; font-size: 1rem; text-transform: none; }#content-167 [data-module="singleproject"] #project-153 video { opacity: 1; }#content-167 #section_be1698020 {background-color: #000000;}#content-167 #content_abe29f4aa {padding-top: 2.7777777777777777rem;padding-right: 0rem;padding-bottom: 5.555555555555555rem;}#content-167 #content_abe29f4aa .is-content {}#content-167 #content_e415c66f7 {padding-top: 2.7777777777777777rem;padding-bottom: 0rem;}#content-167 #content_e415c66f7 .is-content {}
 			.nav_1r0vcctis .container-nav-inner .navbar-inner { background-color: rgba(10, 187, 101, 1);; }.nav_1r0vcctis .container-nav-inner { padding-left: 3.3333333333333335rem; }.nav_1r0vcctis .container-nav-inner { padding-right: 3.3333333333333335rem; }.nav_1r0vcctis .container-nav-inner { padding-top: 1.6666666666666667rem; }.nav_1r0vcctis .container-nav-inner { padding-bottom: 1.6666666666666667rem; }.nav_1r0vcctis .container-nav-inner .navbar-inner nav ul li a, .nav_1r0vcctis .container-nav-inner .navbar-inner .hamburger { padding-top: 1.6666666666666667rem; }.nav_1r0vcctis .container-nav-inner .navbar-inner nav ul li a, .nav_1r0vcctis .container-nav-inner .navbar-inner .hamburger { padding-bottom: 1.6666666666666667rem; }.nav_1r0vcctis .container-nav-inner .navbar-inner { border-color: rgba(0, 0, 0, 1); }.nav_1r0vcctis .container-nav-inner .navbar-inner { border-radius: 0rem; }.nav_1r0vcctis .logo { padding-left: 3.3333333333333335rem; }.nav_1r0vcctis .logo { padding-right: 3.3333333333333335rem; }.nav_1r0vcctis .logo { padding-top: 3.3333333333333335rem; }.nav_1r0vcctis .logo { padding-bottom: 3.3333333333333335rem; }.nav_1r0vcctis .logo img, .nav_1r0vcctis .logo svg { width: 4.166666666666667rem; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon span { background-color: #000000; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon { width: 24; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon span { height: 2px; }.nav_1r0vcctis .navbar-inner .hamburger a.open-menu span::before { transform: translateY(-6px); }.nav_1r0vcctis .navbar-inner .hamburger a.open-menu span::after { transform: translateY(6px); }.nav_1r0vcctis .navbar-inner .hamburger a.open-menu:hover span::before { transform: translateY(-8px); }.nav_1r0vcctis .navbar-inner .hamburger a.open-menu:hover span::after { transform: translateY(8px); }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon { height: 14px; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon span { margin-top: 7px; }.nav_1r0vcctis .container-nav-inner .navbar-inner nav ul li a span { font-size: 1rem; }.nav_1r0vcctis .container-nav-inner .navbar-inner nav ul li a span { color: #ffffff; }.nav_1r0vcctis .container-nav-inner .navbar-inner nav ul li a:hover span, .nav_1r0vcctis .navbar-inner nav ul li.wrap-focus a span, .nav_1r0vcctis .container-nav-inner .navbar-inner nav ul li.current-menu-item a span, .nav_1r0vcctis .container-nav-inner .navbar-inner nav ul li.current_page_item a span, [data-post-type="project"] .nav_1r0vcctis .navbar-inner nav ul li.portfolio-grid a span, [data-post-type="post"] .nav_1r0vcctis .navbar-inner nav ul li.blog-overview a span { color: #000000; }#overlay-menu { background-color: rgba(245, 245, 245, 1); }@media screen and (min-width: 992px) and (max-width: 1169.98px) { .nav_1r0vcctis .navbar-inner .hamburger a.menu-icon { height: 14px; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon span { margin-top: 7px; }}@media screen and (min-width: 768px) and (max-width: 991.98px) { .nav_1r0vcctis .navbar-inner .hamburger a.menu-icon { height: 14px; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon span { margin-top: 7px; }}@media screen and (min-width: 544px) and (max-width: 767.98px) { .nav_1r0vcctis .navbar-inner .hamburger a.menu-icon { height: 14px; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon span { margin-top: 7px; }}@media screen and (max-width: 543.98px) { .nav_1r0vcctis .navbar-inner .hamburger a.menu-icon { height: 14px; }.nav_1r0vcctis .navbar-inner .hamburger a.menu-icon span { margin-top: 7px; }}
 		</style>
 			<style>html{margin-top:0px!important;}#wpadminbar{top:auto!important;bottom:0;}</style>
 			</head>
-	<body class="project-template-default single single-project postid-39 is-frontend static-mode static-transitions mejs-semplice-ui" data-post-type="project" data-post-id="39">
-		<div id="content-holder" data-active-post="39">
+	<body class="page-template-default page page-id-167 is-frontend static-mode static-transitions mejs-semplice-ui" data-post-type="page" data-post-id="167">
+		<div id="content-holder" data-active-post="167">
 						<header class="nav_1r0vcctis semplice-navbar active-navbar sticky-nav container-nav container-nav-floating no-headroom container-bottom-nav non-exclusive"  data-cover-transparent="disabled" data-bg-overlay-visibility="visible" data-mobile-fallback="enabled" data-logo-visibility="visible" data-logo-position="bottom-left" data-nav-position="bottom-right" >
 							<div class="container-nav-inner container" data-nav="container-floating">
 								<div class="navbar-inner menu-type-text" data-xl-width="12" data-navbar-type="container">
 									<nav class="standard" data-font="inter_bold"><ul class="menu"><li id="menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="http://clafdsign2.local/visual-identity"><span>Visual identity</span></a></li>
-<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="http://clafdsign2.local/environment"><span>Environment</span></a></li>
+<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-167 current_page_item menu-item-170"><a href="http://clafdsign2.local/environment" aria-current="page"><span>Environment</span></a></li>
 </ul></nav>
 									<div class="hamburger semplice-menu"><a class="open-menu menu-icon"><span></span></a></div>
 								</div>
@@ -150,240 +150,119 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 					<div class="overlay-menu-inner" data-xl-width="12">
 						<nav class="overlay-nav" data-justify="center" data-align="align-middle">
 							<ul class="container"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="http://clafdsign2.local/visual-identity"><span>Visual identity</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="http://clafdsign2.local/environment"><span>Environment</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-167 current_page_item menu-item-170"><a href="http://clafdsign2.local/environment" aria-current="page"><span>Environment</span></a></li>
 </ul>
 						</nav>
 					</div>
 				</div>
 			
 							
-			<div id="content-39" class="content-container active-content  hide-on-init">
+			<div id="content-167" class="content-container active-content  hide-on-init">
 				<div class="transition-wrap">
 					<div class="sections">
 						
-					<section id="section_b9a012135" class="content-block" data-column-mode-sm="single" data-column-mode-xs="single" >
-						<div class="container"><div id="row_5569a2bdb" class="row"><div id="column_616f06484" class="column" data-xl-width="5" >
+					<section id="section_45d147702" class="content-block" data-column-mode-sm="single" data-column-mode-xs="single" data-layout="fluid" data-gutter="no" >
+						<div class="container"><div id="row_f52b963c4" class="row"><div id="column_eaaf4ce72" class="column" data-xl-width="4" >
 					<div class="content-wrapper">
 						
 						
-				<div id="content_2d3d70d5c" class="column-content" data-module="text" >
-					<div class="is-content"><h1 style="text-align: left;" data-mce-style="text-align: left;"><span class="inter_bold" style="color: rgb(255, 255, 255);" data-mce-style="color: rgb(255, 255, 255);">Marcus Mae</span></h1><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: rgb(255, 255, 255);" data-mce-style="color: rgb(255, 255, 255);">Logo and full brand identity for a London based DJ.</span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: rgb(255, 255, 255);" data-mce-style="color: rgb(255, 255, 255);">We wanted the brand to reflect the music by using strong textures and depth. In contrast, the imagery we used is intentionally goofy and fun, poking a bit of fun at the sometimes serious and over the top nature of DJ nights and events on the London scene.</span></p></div>
-				</div>
-			
-					</div>
-				</div><div id="column_2oxwm1g3g" class="column" data-xl-width="7" >
-					<div class="content-wrapper">
-						
-						
-				<div id="content_wcg8x7rx3" class="column-content" data-module="video" >
-					
-					<div class="ce-video ce-video-no-controls" data-hide-controls="on" style="width: 100%; max-width: 100%">
-						<video class="video"  webkit-playsinline playsinline preload="metadata"  loop autoplay muted >
-							<source src="http://clafdsign2.local/wp-content/uploads/2024/04/Marcus-mae-1.mp4" type="video/mp4">
-							<p>If you are reading this, it is because your browser does not support the HTML5 video element.</p>
-						</video>
-					</div>
+				<div id="content_cd2f1023b" class="column-content" data-module="singleproject" >
+					<a href="http://clafdsign2.local/project/stage-design" class="pg-link">
+					<div id="project-135" class="is-content thumb">
+						<div class="thumb-inner">
+								
+			<div class="thumb-hover">
 				
+				<div class="thumb-hover-meta middle-center show-title fade">
+					<p>
+						<span class="title" data-font="inter_bold">Stage Design</span><br />
+						<span class="category" data-font="regular">Environmental</span>
+					</p>			
+				</div>
+			</div>
+		
+								<img class="sp-thumbnail" src="http://clafdsign2.local/wp-content/uploads/2024/04/Squares_Stage-design-370x370-1.jpg" width="771" height="771" alt="Stage Design">
+						</div>
+					</div>
+				</a>
 				</div>
 			
 					</div>
-				</div></div><div id="row_2a338c6a0" class="row"><div id="column_4c3eef7ad" class="column" data-xl-width="12" >
+				</div><div id="column_8bebde445" class="column" data-xl-width="4" >
 					<div class="content-wrapper">
 						
 						
-				<div id="content_be0fad4c1" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign2.local/wp-content/uploads/2024/04/1170x300.gif" width="1170" height="300" alt="1170&#215;300" caption="" data-width="original" data-scaling="no"></div>
+				<div id="content_0fa1a6543" class="column-content" data-module="singleproject" >
+					<a href="http://clafdsign2.local/project/wayfinding" class="pg-link">
+					<div id="project-118" class="is-content thumb">
+						<div class="thumb-inner">
+								
+			<div class="thumb-hover">
+				
+				<div class="thumb-hover-meta middle-center show-title fade">
+					<p>
+						<span class="title" data-font="inter_bold">Wayfinding</span><br />
+						<span class="category" data-font="regular">Environmental</span>
+					</p>			
+				</div>
+			</div>
+		
+								<img class="sp-thumbnail" src="http://clafdsign2.local/wp-content/uploads/2024/04/Squares_Wayfinding-370x370-1.jpg" width="771" height="771" alt="Wayfinding">
+						</div>
+					</div>
+				</a>
+				</div>
+			
+					</div>
+				</div><div id="column_2cf91d4df" class="column" data-xl-width="4" >
+					<div class="content-wrapper">
+						
+						
+				<div id="content_6faa514ba" class="column-content" data-module="singleproject" >
+					<a href="http://clafdsign2.local/project/icon-system" class="pg-link">
+					<div id="project-153" class="is-content thumb">
+						<div class="thumb-inner">
+								
+			<div class="thumb-hover">
+				
+				<div class="thumb-hover-meta middle-center show-title fade">
+					<p>
+						<span class="title" data-font="inter_bold">Icon system</span><br />
+						<span class="category" data-font="regular">Environmental</span>
+					</p>			
+				</div>
+			</div>
+		
+								<img class="sp-thumbnail" src="http://clafdsign2.local/wp-content/uploads/2024/04/Squares_Icon-370x370-1.png" width="771" height="771" alt="Icon system">
+						</div>
+					</div>
+				</a>
 				</div>
 			
 					</div>
 				</div></div></div>
 					</section>				
 				
-					<section id="section_6947db47e" class="content-block" data-column-mode-sm="single" data-column-mode-xs="single" >
-						<div class="container"><div id="row_a72b5ddf5" class="row"><div id="column_827ea20a5" class="column" data-xl-width="4" >
+					<section id="section_be1698020" class="content-block" data-column-mode-sm="single" data-column-mode-xs="single" >
+						<div class="container"><div id="row_b76492669" class="row"><div id="column_e0469c9ed" class="column" data-xl-width="4" >
 					<div class="content-wrapper">
 						
 						
-				<div id="content_4db22ff58" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign2.local/wp-content/uploads/2024/04/MM-370x250_1.png" width="370" height="250" alt="MM-370x250_1" caption="" data-width="original" data-scaling="no"></div>
-				</div>
-			
-					</div>
-				</div><div id="column_e1772d7ed" class="column" data-xl-width="4" >
-					<div class="content-wrapper">
-						
-						
-				<div id="content_294b4a63e" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign2.local/wp-content/uploads/2024/04/MM-370x250_2.png" width="370" height="250" alt="MM-370x250_2" caption="" data-width="original" data-scaling="no"></div>
-				</div>
-			
-					</div>
-				</div><div id="column_0d709fb70" class="column" data-xl-width="4" >
-					<div class="content-wrapper">
-						
-						
-				<div id="content_44b47a3b3" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign2.local/wp-content/uploads/2024/04/MM-370x250_3.png" width="370" height="250" alt="MM-370x250_3" caption="" data-width="original" data-scaling="no"></div>
-				</div>
-			
-					</div>
-				</div></div><div id="row_c82302a74" class="row"><div id="column_c507f45fe" class="column" data-xl-width="4" >
-					<div class="content-wrapper">
-						
-						
-				<div id="content_2c38e4638" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign2.local/wp-content/uploads/2024/04/MM-370x250_4.png" width="370" height="250" alt="MM-370x250_4" caption="" data-width="original" data-scaling="no"></div>
-				</div>
-			
-					</div>
-				</div><div id="column_a2b72fabe" class="column" data-xl-width="4" >
-					<div class="content-wrapper">
-						
-						
-				<div id="content_4a7680870" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign2.local/wp-content/uploads/2024/04/MM-370x250_5.png" width="370" height="250" alt="MM-370x250_5" caption="" data-width="original" data-scaling="no"></div>
-				</div>
-			
-					</div>
-				</div><div id="column_95679e87b" class="column" data-xl-width="4" >
-					<div class="content-wrapper">
-						
-						
-				<div id="content_f6f3c8f8b" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign2.local/wp-content/uploads/2024/04/MM-370x250_6.png" width="370" height="250" alt="MM-370x250_6" caption="" data-width="original" data-scaling="no"></div>
-				</div>
-			
-					</div>
-				</div></div><div id="row_0009b2455" class="row"><div id="column_ef7a6ddbc" class="column" data-xl-width="4" >
-					<div class="content-wrapper">
-						
-						
-				<div id="content_abb0e0501" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign2.local/wp-content/uploads/2024/04/MM-370x250_7.png" width="370" height="250" alt="MM-370x250_7" caption="" data-width="original" data-scaling="no"></div>
-				</div>
-			
-					</div>
-				</div><div id="column_3ec2277c9" class="column" data-xl-width="4" >
-					<div class="content-wrapper">
-						
-						
-				<div id="content_404bb2a1c" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign2.local/wp-content/uploads/2024/04/MM-370x250_8.png" width="370" height="250" alt="MM-370x250_8" caption="" data-width="original" data-scaling="no"></div>
-				</div>
-			
-					</div>
-				</div><div id="column_4cdcb522b" class="column" data-xl-width="4" >
-					<div class="content-wrapper">
-						
-						
-				<div id="content_0f79b1526" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign2.local/wp-content/uploads/2024/04/MM-370x250_9.png" width="370" height="250" alt="MM-370x250_9" caption="" data-width="original" data-scaling="no"></div>
-				</div>
-			
-					</div>
-				</div></div></div>
-					</section>				
-				
-					<section id="section_08e9eedab" class="content-block" data-column-mode-sm="single" data-column-mode-xs="single" >
-						<div class="container"><div id="row_875664268" class="row"><div id="column_58833a33b" class="column" data-xl-width="6" >
-					<div class="content-wrapper">
-						
-						
-				<div id="content_09f6cd92e" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign2.local/wp-content/uploads/2024/04/MM-1.jpg" width="570" height="570" alt="MM-1" caption="" data-width="original" data-scaling="no"></div>
-				</div>
-			
-					</div>
-				</div><div id="column_vkydsmaq2" class="column" data-xl-width="6" >
-					<div class="content-wrapper">
-						
-						
-				<div id="content_3232bb6ca" class="column-content" data-module="image" >
-					<div class="ce-image" data-align="left"><img class="is-content"  src="http://clafdsign2.local/wp-content/uploads/2024/04/MM-2.jpg" width="570" height="570" alt="MM-2" caption="" data-width="original" data-scaling="no"></div>
-				</div>
-			
-					</div>
-				</div></div></div>
-					</section>				
-				
-				<section class="project-panel" data-pp-gutter="no" data-pn-layout="container" data-pp-visibility="visible">
-					<div class="container" data-title-visibility="hidden" data-meta-visibility="hidden">
-						<div class="row">
-							<div class="column" data-xl-width="12">
-								<p class="panel-label"><span data-font="regular">Selected Works</span></p>
-							</div>
-						</div>
-						<div class="row pp-thumbs">
-							
-						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign2.local/project/phizzfest" title="Phizzfest"><img src="http://clafdsign2.local/wp-content/uploads/2024/04/500x500_Phizz.png" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign2.local/project/phizzfest" title="Phizzfest">Phizzfest</a><span data-font="regular">Branding</span></p>
-						</div>
-					
-						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign2.local/project/marcus-mae" title="Marcus Mae"><img src="http://clafdsign2.local/wp-content/uploads/2024/04/500x500_Marcus-mae.png" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign2.local/project/marcus-mae" title="Marcus Mae">Marcus Mae</a><span data-font="regular">Branding</span></p>
-						</div>
-					
-						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign2.local/project/stage-design" title="Stage Design"><img src="http://clafdsign2.local/wp-content/uploads/2024/04/Squares_Stage-design-370x370-1.jpg" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign2.local/project/stage-design" title="Stage Design">Stage Design</a><span data-font="regular">Environmental</span></p>
-						</div>
-					
-						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign2.local/project/collision-after-hours" title="Collision After Hours"><img src="http://clafdsign2.local/wp-content/uploads/2024/04/500x500_After-Hours.png" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign2.local/project/collision-after-hours" title="Collision After Hours">Collision After Hours</a><span data-font="regular">Branding</span></p>
-						</div>
-					
-						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign2.local/project/icon-system" title="Icon system"><img src="http://clafdsign2.local/wp-content/uploads/2024/04/Squares_Icon-370x370-1.png" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign2.local/project/icon-system" title="Icon system">Icon system</a><span data-font="regular">Environmental</span></p>
-						</div>
-					
-						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign2.local/project/phibsborotidytowns" title="Phibsboro Tidy Towns"><img src="http://clafdsign2.local/wp-content/uploads/2024/04/500x500_Phibsboro-village.png" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign2.local/project/phibsborotidytowns" title="Phibsboro Tidy Towns">Phibsboro Tidy Towns</a><span data-font="regular">Branding</span></p>
-						</div>
-					
-						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign2.local/project/wayfinding" title="Wayfinding"><img src="http://clafdsign2.local/wp-content/uploads/2024/04/Squares_Wayfinding-370x370-1.jpg" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign2.local/project/wayfinding" title="Wayfinding">Wayfinding</a><span data-font="regular">Environmental</span></p>
-						</div>
-					
-						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign2.local/project/collision-after-hours-duplicate" title="Machine Demo"><img src="http://clafdsign2.local/wp-content/uploads/2024/04/500x500_Machine-Demo.png" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign2.local/project/collision-after-hours-duplicate" title="Machine Demo">Machine Demo</a><span data-font="regular">Branding</span></p>
-						</div>
-					
-						<div class="pp-thumb column" data-xl-width="1" data-lg-width="2" data-md-width="3" data-sm-width="4" data-xs-width="6">
-							<a href="http://clafdsign2.local/project/grend" title="Grend"><img src="http://clafdsign2.local/wp-content/uploads/2024/04/500x500_Marcus-mae-copy-2.png" width="" height=""></a>
-							<p class="pp-title"><a data-font="regular" href="http://clafdsign2.local/project/grend" title="Grend">Grend</a><span data-font="regular">Branding</span></p>
-						</div>
-					
-						</div>
-					</div>
-				</section>
-			
-					<section id="section_55756749f" class="content-block" data-column-mode-sm="single" data-column-mode-xs="single" >
-						<div class="container"><div id="row_ea36935eb" class="row"><div id="column_1c79cbc26" class="column" data-xl-width="4" >
-					<div class="content-wrapper">
-						
-						
-				<div id="content_e4fcb6ff2" class="column-content" data-module="text" >
+				<div id="content_abe29f4aa" class="column-content" data-module="text" >
 					<div class="is-content"><h1><span style="color: rgb(255, 255, 255);" data-mce-style="color: rgb(255, 255, 255);">Get in touch</span></h1><p><span style="color: rgb(255, 255, 255);" data-mce-style="color: rgb(255, 255, 255);">conorclaffeydesign@gmail.com</span></p></div>
 				</div>
 			
 					</div>
-				</div><div id="column_d1cc71bd1" class="column spacer-column" data-xl-width="7" >
+				</div><div id="column_03967895d" class="column spacer-column" data-xl-width="7" >
 					<div class="content-wrapper">
 						
 						
 					</div>
-				</div><div id="column_8be4ed38a" class="column" data-xl-width="1" >
+				</div><div id="column_628c75271" class="column" data-xl-width="1" >
 					<div class="content-wrapper">
 						
 						
-				<div id="content_52cf50012" class="column-content" data-module="image" >
+				<div id="content_e415c66f7" class="column-content" data-module="image" >
 					<div class="ce-image" data-align="right"><a href="https://www.instagram.com/clafdsign/?igsh=MTA3bmdidTk1bmRyNg%3D%3D" target="_blank"><img class="is-content"  src="http://clafdsign2.local/wp-content/uploads/2024/04/insta.png" width="275" height="275" alt="insta" caption="" data-width="original" data-scaling="no"></a></div>
 				</div>
 			
